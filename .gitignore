@@ -1,0 +1,6 @@
+# build artefacts and sources never belong here
+frames/
+*.psd
+.DS_Store
+Thumbs.db
+desktop.ini
